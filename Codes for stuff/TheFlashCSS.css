@@ -1,0 +1,29 @@
+.hehe {
+
+    font-size: xx-large;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+.hehe:hover {
+    font-size: 150px;
+    font-family: fantasy;
+    transition: 0.3s linear;
+    text-align: center;
+    cursor: pointer;
+    background-color: aqua;
+}
+
+.button {
+    background-color: blue;
+    color: yellow;
+    animation-iteration-count: infinite;
+}
+
+#myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    
+  }
